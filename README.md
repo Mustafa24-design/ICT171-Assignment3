@@ -1,3 +1,7 @@
+## Video Explainer
+
+Watch the full video walkthrough here: https://youtu.be/FstuiqhFNn4
+
 # ICT171 Assignment 3 - Cloud Server Project
 
 **Student:** Muhammad Mustafa  
